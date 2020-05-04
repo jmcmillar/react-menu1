@@ -17,3 +17,26 @@ h1, p {
   display: none;
 }
 
+.dropdown-menu {
+  top: 30px !important;
+}
+
+.dropdown-menu a > p{
+  border-bottom: solid 1px #ccc;
+  text-align: center;
+}
+
+.cat-title {
+  text-align: center;
+}
+
+.tab-pane {
+  display: none;
+}
+
+.show {
+  display: block !important;
+}
+
+
+

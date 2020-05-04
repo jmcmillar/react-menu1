@@ -1,19 +1,21 @@
 import React, { Component } from 'react';
+import Accordion from 'react-bootstrap/Accordion'
 
 
 class Menu extends Component {
 	render() {
 		return (
-            <div>
+
+            <div className="container">
                 {
 					this.props.menu.map((item, i) => {
 						return (
-							<div key={i}>
+							<div key={i} id={item.category.replace(' ','-')} className="tab-pane" >
 								<div>
 								
 									<div>
 										<div>
-											<h2 href={item.category}>{item.category}</h2>
+											<h2 className="cat-title" href={item.category}>{item.category}</h2>
 										</div>
 											{item.menuItems.map(function (menuitems, i) { 
 												return <div className="row" key={i}>
@@ -28,10 +30,10 @@ class Menu extends Component {
                                 menuitems.multi.multiItems.map(function (multiitems, i)
                                 {
                                   return <div className="row" style={{width: "100%", paddingLeft: "40px"}} key={i}>
-                                  <div className="col-8 multi-item"><p>{multiitems.multiName}
-                                  </p>
+                                  <div className="col-8 multi-item"><p><b>{multiitems.multiName}
+                                  </b></p>
                                   </div>
-                                   <div className="col-4">multiitems.multiPrice == "" ? '' : '$ {parseFloat(multiitems.multiPrice).toFixed(2)}'</div>
+                                   <div className={'col-4 '  + (multiitems.multiPrice === '' ? 'hide': '')}>$ {parseFloat(multiitems.multiPrice).toFixed(2)}</div>
                                   </div>
                                 }
 
@@ -50,6 +52,7 @@ class Menu extends Component {
 					})
 				}
             </div>
+            
         );
     }
 } 
