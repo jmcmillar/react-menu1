@@ -1628,7 +1628,7 @@
           "itemDescription": "Interesting Red, Argentina",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 9.50
@@ -1657,7 +1657,7 @@
           "itemDescription": "Interesting Red, Australia",
           "itemPrice": 40.00,
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": []
           }
         },
@@ -1824,7 +1824,7 @@
           "itemDescription": "Merlot, Washington",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 8.00
@@ -1842,7 +1842,7 @@
           "itemDescription": "Merlot, California",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 8.00
@@ -1893,7 +1893,7 @@
           "itemDescription": "Cabernet, Central Coast, California",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 8.00
@@ -1922,7 +1922,7 @@
           "itemDescription": "Cabernet, Sonoma",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 10.00
@@ -1940,7 +1940,7 @@
           "itemDescription": "Cabernet, Washington",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 8.50
@@ -1969,7 +1969,7 @@
           "itemDescription": "Cabernet, Alexander",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 11.50
@@ -2009,7 +2009,7 @@
           "itemDescription": "Cabernet, Napa Valley",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 16.00
@@ -2049,7 +2049,7 @@
           "itemDescription": "Zinfandel, Sonoma",
           "itemPrice": 90.00,
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 10.00
@@ -3257,7 +3257,7 @@
           "itemDescription": "Pinot Noir, Sonoma",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 9.00
@@ -3275,7 +3275,7 @@
           "itemDescription": "Adami",
           "itemPrice": "Pinot Noir, Dundee Hills, Oregon",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 11.00
@@ -3366,7 +3366,7 @@
           "itemDescription": "Interesting Red, Gascon Malbec",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 7.50
@@ -3384,7 +3384,7 @@
           "itemDescription": "Dark Red Blend",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 7.50
@@ -3402,7 +3402,7 @@
           "itemDescription": "Interesting Red, Argentina",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 9.50
@@ -3420,7 +3420,7 @@
           "itemDescription": "Interesting Red, Argentina",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 9.50
@@ -3616,7 +3616,7 @@
           "itemDescription": "Merlot, Washington",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 8.00
@@ -3634,7 +3634,7 @@
           "itemDescription": "Merlot, California",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 8.00
@@ -3685,7 +3685,7 @@
           "itemDescription": "Cabernet, Central Coast, California",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 8.00
@@ -3714,7 +3714,7 @@
           "itemDescription": "Cabernet, Sonoma",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 10.00
@@ -3761,7 +3761,7 @@
           "itemDescription": "Cabernet, Alexander",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 11.50
@@ -3801,7 +3801,7 @@
           "itemDescription": "Cabernet, Napa Valley",
           "itemPrice": "",
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 16.00
@@ -3841,7 +3841,7 @@
           "itemDescription": "Zinfandel, Sonoma",
           "itemPrice": 90.00,
           "multi": {
-            "isMulti": false,
+            "isMulti": true,
             "multiItems": [{
               "multiName": "Glass",
               "multiPrice": 10.00

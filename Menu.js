@@ -31,7 +31,7 @@ class Menu extends Component {
                                   <div className="col-8 multi-item"><p>{multiitems.multiName}
                                   </p>
                                   </div>
-                                   <div className="col-4">$ {parseFloat(multiitems.multiPrice).toFixed(2)}</div>
+                                   <div className="col-4">multiitems.multiPrice == "" ? '' : '$ {parseFloat(multiitems.multiPrice).toFixed(2)}'</div>
                                   </div>
                                 }
 
