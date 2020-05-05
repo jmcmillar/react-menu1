@@ -9,9 +9,9 @@ render() {
    var timeNow = moment().format("HH:mm");
     
    function findCat(e) {
-//  var lights = document.getElementsByClassName("light");
-// while (lights.length)
-//     lights[0].className = lights[0].className.replace(/\blight\b/g, "");
+ var showcat = document.getElementsByClassName("show");
+while (showcat.length)
+    showcat[0].className = showcat[0].className.replace(/\bshow\b/g, "");
     
     let catinfo = e.target.parentElement.getAttribute('data-cat');
     console.log(catinfo);
